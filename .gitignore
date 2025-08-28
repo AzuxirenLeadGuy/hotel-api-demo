@@ -1,0 +1,6 @@
+bin/
+obj/
+secret*.txt
+.vs/
+.vscode/
+.github/
